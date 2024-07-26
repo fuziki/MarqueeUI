@@ -27,3 +27,19 @@ Inspired by the [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel).
     .padding()
 }
 ```
+
+
+## Requirements
+* iOS 16
+
+## Installation
+
+Add the following line to your Package.swift file to indicate that the framework depends on MarqueeUI:
+
+```swift
+let package = Package(
+    dependencies: [
+        .package(url: "https://github.com/fuziki/MarqueeUI.git", from: "0.1.0")
+    ],
+)
+```
