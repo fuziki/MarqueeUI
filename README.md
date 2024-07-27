@@ -30,7 +30,7 @@ Inspired by the [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel).
 
 
 ## Requirements
-* iOS 16
+* iOS 16 or later.
 
 ## Installation
 
